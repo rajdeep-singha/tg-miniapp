@@ -20,8 +20,8 @@ if (!WALLETCONNECT_PROJECT_ID) {
   )
 }
 export const config = getDefaultConfig({
-  appName: "RainbowKit demo",
-  projectId: WALLETCONNECT_PROJECT_ID,
+  appName: "MINIAPP",
+  projectId: 'a559440cc32527310e199491c013f6ba',
   wallets: [
     ...wallets,
     {
